@@ -1,0 +1,16 @@
+.dub
+docs.json
+dub.selections.json
+__dummy.html
+docs/
+/fastcgi-native
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

@@ -1,0 +1,11 @@
+{
+	"authors": [
+		"Ferhat Kurtulmuş"
+	],
+	"copyright": "Copyright © 2024, Ferhat Kurtulmuş",
+	"description": "Communicate with your FastCGI server easily using sockets in dlang",
+	"license": "Boost 1.0",
+	"name": "fastcgi-native",
+	"targetType": "library",
+	"version": "0.0.1"
+}
